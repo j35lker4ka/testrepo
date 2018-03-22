@@ -2,7 +2,7 @@
 
 int main(void){
 
-    printf("Content-type: text/plain\n\n");
+    printf("hello, GitHub\n");
     printf("Hello, World!");
 
     return 0;
